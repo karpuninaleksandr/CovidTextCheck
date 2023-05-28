@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>local.check.covidtextcheck/local.check.covidtextcheck.HelloApplication
+                            <mainClass>local.check.covidtextcheck/local.check.covidtextcheck.CovidTextCheckApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
